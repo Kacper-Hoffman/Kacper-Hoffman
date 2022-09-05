@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**Kacper-Hoffman/Kacper-Hoffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Strona Główna 🇵🇱
+To jest strona główna mojego profilu. Poniżej lista moich zdolności oraz projektów które wykonałem.
+## Zdolności:
+- C#
+- LTSpice
+- FEMM
+- MATLAB
+- LabView
+## Projekty:
+ - ⚠️ Praca W Toku | Do Dodania ⚠️
+---
+# Main Page 🇬🇧
+This is the main page of my profine. Below is a list of my skills and projects that I have done.
+## Skills:
+- C#
+- LTSpice
+- FEMM
+- MATLAB
+- LabView
+## Projects:
+- ⚠️ Work In Progress | To Be Added ⚠️
