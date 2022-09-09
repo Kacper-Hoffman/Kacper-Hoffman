@@ -15,10 +15,11 @@ Jestem byłym studentem Politechniki Opolskiej. Zakończyłem studia inżyniersk
 - MATLAB
 - LabView
 ## Projekty:
- - ![Praca równoległa transformatorów](https://github.com/Kacper-Hoffman/Parallel-Operation/blob/main/README.md)
- - ![Analiza gazów rozpuszczonych DGA](https://github.com/Kacper-Hoffman/Duval-Triangle/blob/main/README.md)
- - ![Model silnika klatkowego trójfazowego](https://github.com/Kacper-Hoffman/Electrical-Motor/blob/main/README.md)
- - ![Sterowany prostownik jednopołówkowy z optoizolacją](https://github.com/Kacper-Hoffman/Half-Rectifier/blob/main/README.md)
+ - [Praca równoległa transformatorów](https://github.com/Kacper-Hoffman/Parallel-Operation/blob/main/README.md)
+ - [Analiza gazów rozpuszczonych DGA](https://github.com/Kacper-Hoffman/Duval-Triangle/blob/main/README.md)
+ - [Model silnika klatkowego trójfazowego](https://github.com/Kacper-Hoffman/Electrical-Motor/blob/main/README.md)
+ - [Rozruch silnika pierścieniowego w ZelioSoft](https://github.com/Kacper-Hoffman/Motor-Start/blob/main/README.md)
+ - [Sterowany prostownik jednopołówkowy z optoizolacją](https://github.com/Kacper-Hoffman/Half-Rectifier/blob/main/README.md)
  - ⚠️ Praca W Toku | Do Dodania ⚠️
 ---
 # Main Page 🇬🇧
@@ -38,8 +39,9 @@ I am a former student of the University of Opole. I have completed engineering a
 - MATLAB
 - LabView
 ## Projects:
-- ![Parallel operation of transformers](https://github.com/Kacper-Hoffman/Parallel-Operation/blob/main/README.md)
-- ![Dissolved Gas Analysis](https://github.com/Kacper-Hoffman/Duval-Triangle/blob/main/README.md)
-- ![Three phase squirrel cage motor model](https://github.com/Kacper-Hoffman/Electrical-Motor/blob/main/README.md)
-- ![Controlled half wave rectifier with optoisolation](https://github.com/Kacper-Hoffman/Half-Rectifier/blob/main/README.md)
+- [Parallel operation of transformers](https://github.com/Kacper-Hoffman/Parallel-Operation/blob/main/README.md)
+- [Dissolved Gas Analysis](https://github.com/Kacper-Hoffman/Duval-Triangle/blob/main/README.md)
+- [Three phase squirrel cage motor model](https://github.com/Kacper-Hoffman/Electrical-Motor/blob/main/README.md)
+- [Slip ring motor starting in ZelioSoft](https://github.com/Kacper-Hoffman/Motor-Start/blob/main/README.md)
+- [Controlled half wave rectifier with optoisolation](https://github.com/Kacper-Hoffman/Half-Rectifier/blob/main/README.md)
 - ⚠️ Work In Progress | To Be Added ⚠️
