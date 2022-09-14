@@ -2,8 +2,8 @@
 ## O mnie
 Jestem byłym studentem Politechniki Opolskiej. Zakończyłem studia inżynierskie i magisterskie na kierunku Elektrotechnika. W ciągu studiów zdobyłem wiele zdolności, związanych głównie z wykorzystaniem oprogramowania komputerowego do symulacji i wykonywaniem obliczeń do problemów inżynierskich. W roku 2019 brałem udział w praktykach studenckich w Elektrowni Opole. Na razie nie mam jeszcze prawdziwego doświadczenia zawodowego. Jestem zainteresowany prac/stażem w zawodzie związanym z moimi zainteresowaniami.
 ## Zainteresowania:
-- Elektrotechnika
-- Teoria pola elektromagnetycznego
+- Inżynieria
+- Automatyzacja
 - Programowanie
 - Nowe technologie
 - Astronomia
