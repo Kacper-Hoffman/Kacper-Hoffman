@@ -27,8 +27,8 @@ Jestem byłym studentem Politechniki Opolskiej. Zakończyłem studia inżyniersk
 ## About me
 I am a former student of the University of Opole. I have completed engineering and master's studies in Electrical Engineering. During studies I have obtained many skills, based mainly on using programming for simulation and calculations in engineering problems. In 2019 I have been part of student internships in Elektrownia Opole. For now I don't yet have real job experience. I am interested in a job/internship related to my interests.
 ## Interests:
-- Electrical engineering
-- Electromagnetic field theory
+- Engineering
+- Automation
 - Programming
 - New technologies
 - Astronomy
